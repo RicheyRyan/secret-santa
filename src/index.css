@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, input {
+  color: #333;
+}
+
+p, input {
+  font-size: 1em;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}

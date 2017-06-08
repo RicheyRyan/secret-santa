@@ -1,0 +1,69 @@
+exports[`test Cta component matches snapshot 1`] = `
+<div
+  className="email-view">
+  <div
+    className="cta">
+    <p>
+      Not finished?
+    </p>
+    <button
+      onClick={[Function]}>
+      Go Back To List
+    </button>
+  </div>
+  <h3>
+    Email for: 
+    Jennifer Madden
+  </h3>
+  <div
+    className="email-view-controls">
+    <button
+      onClick={[Function]}>
+      Previous
+    </button>
+    <p>
+      Will be sent to 
+      jmadser@somemail.com
+    </p>
+    <button
+      onClick={[Function]}>
+      Next
+    </button>
+  </div>
+  <div
+    className="email-body">
+    <p>
+      Hi 
+      Jennifer
+      ,
+    </p>
+    <p>
+      Welcome to Secret Santa!
+    </p>
+    <p>
+      You\'ve been chosen to get a gift for 
+      Geoff Lanegan
+      .
+    </p>
+    <p>
+      Make sure you get them something nice.
+    </p>
+    <p>
+      All the best,
+    </p>
+    <p>
+      The Secret Santa Team
+    </p>
+  </div>
+  <div
+    className="cta">
+    <p>
+      Look good?
+    </p>
+    <button
+      onClick={[Function]}>
+      Send All Emails
+    </button>
+  </div>
+</div>
+`;

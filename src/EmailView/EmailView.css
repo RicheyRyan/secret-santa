@@ -1,0 +1,20 @@
+.email-view{
+  padding: 1em;
+}
+
+.email-view h3 {
+  text-align: center;
+}
+
+.email-view-controls{
+  width: 100%;
+  text-align: center;
+}
+
+.email-view-controls p, .email-view-controls button {
+  display: inline-block;
+}
+
+.email-view-controls p{
+  margin: 0 1em 1em;
+}

@@ -1,0 +1,13 @@
+.cta {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 1.5em;
+}
+
+.cta p, .cta button{
+  display: inline;
+}
+
+.cta p{
+  margin-right: .4em;
+}

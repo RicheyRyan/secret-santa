@@ -1,0 +1,12 @@
+exports[`test Cta component matches snapshot 1`] = `
+<div
+  className="cta">
+  <p>
+    Test Message
+  </p>
+  <button
+    onClick={[Function]}>
+    Test Label
+  </button>
+</div>
+`;

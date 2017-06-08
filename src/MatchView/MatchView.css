@@ -1,0 +1,28 @@
+.match-list{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 2em;
+  list-style: none;
+}
+
+.match-list li {
+  width: 100%;
+  display: block;
+  padding-bottom: 1em;
+}
+
+.match-name, .match-middle-text{
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+
+.match-name {
+  font-size: 1.4em;
+}
+
+.match-middle-text{
+  font-weight: bold;
+  font-size: .8em;
+  margin-top: .5em;
+}

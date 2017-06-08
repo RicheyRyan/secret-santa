@@ -1,0 +1,153 @@
+exports[`test Cta component matches snapshot 1`] = `
+<div>
+  <ul
+    className="match-list">
+    <li>
+      <div
+        className="match-name">
+        Jennifer Madden
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Geoff Lanegan
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Bob Bertler
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Brian Sullivan
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Lisa Masterson
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Lisa Desmond
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Nelson 
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Jennifer Madden
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Fred Walsh
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Derek Proctor
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Geoff Lanegan
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Bob Bertler
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Brian Sullivan
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Fred Walsh
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Lisa Desmond
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Nelson 
+      </div>
+    </li>
+    <li>
+      <div
+        className="match-name">
+        Derek Proctor
+      </div>
+      <div
+        className="match-middle-text">
+        was matched with
+      </div>
+      <div
+        className="match-name">
+        Lisa Masterson
+      </div>
+    </li>
+  </ul>
+  <div
+    className="cta">
+    <p>
+      Dont like the matches?
+    </p>
+    <button
+      onClick={[Function]}>
+      Reshuffle
+    </button>
+  </div>
+  <div
+    className="cta">
+    <p>
+      Happy?
+    </p>
+    <button
+      onClick={[Function]}>
+      Preview Emails
+    </button>
+  </div>
+</div>
+`;

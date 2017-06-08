@@ -1,0 +1,27 @@
+exports[`test Cta component matches snapshot 1`] = `
+<div
+  className="email-body">
+  <p>
+    Hi 
+    Test
+    ,
+  </p>
+  <p>
+    Welcome to Secret Santa!
+  </p>
+  <p>
+    You\'ve been chosen to get a gift for 
+    Test Name
+    .
+  </p>
+  <p>
+    Make sure you get them something nice.
+  </p>
+  <p>
+    All the best,
+  </p>
+  <p>
+    The Secret Santa Team
+  </p>
+</div>
+`;

@@ -1,0 +1,6 @@
+exports[`test Loading component matches snapshot 1`] = `
+<div
+  className="Loading">
+  Loading ...
+</div>
+`;

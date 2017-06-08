@@ -1,0 +1,18 @@
+#root {
+  background-color: #eee;
+}
+
+.App {
+  width: 50%;
+  margin: 0 auto;
+  min-height: 100vh;
+  border-left: 1px dotted #ccc;
+  border-right: 1px dotted #ccc;
+  background-color: #fff;
+}
+
+.App header {
+  padding: 1em;
+  border-bottom: 2px solid #ccc;
+  text-align: center;
+}
